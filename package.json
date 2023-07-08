@@ -9,7 +9,7 @@
     "framer": "^1.1.7",
     "framer-motion": "^1.8.4",
     "html-react-parser": "^0.10.1",
-    "node-sass": "^7.0.3",
+    "node-sass": "^9.0.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-helmet": "^5.2.1",
